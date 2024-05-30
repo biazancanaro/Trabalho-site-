@@ -1,0 +1,30 @@
+<a href= https://youtu.be/GXQKjoryQRI?feature=share
+"target="_blank">
+empresa x
+</a>
+< a href"= https://youtu.be/evRUKJn4X1A?feature=shared" rel=" next "targat"=self">
+
+link pra download
+<h1> https://youtu.be/AUebXlvQ8Bg?feature=shared </h1>
+<audio preload= "metadada" controla autoplay loop>
+<source src"= audio.mp3 "type"= audio/mpeg"> 
+</audio> 
+<video width = "600" poster=" ing.png"controls autoplay>
+<source src= "video.mp4" type= video/mp4">
+</video>
+
+Idoctype html>
+<html lang="pt-br">
+   <head>
+       <meta charset="utf-8">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0"> ‹title>links</title>
+       <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+
+</head>
+<body>
+     <a href="index.html" rel="prev" target="
+_blank">pagina inicial<a/p
+    <h1>links e ancoras</h1>
+    <a href="https://prof-everton.github.io/EXEMPLO_SITE/">visite meu site</a>
+     </body>
+</html>
